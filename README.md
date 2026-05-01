@@ -7,7 +7,6 @@ Este é um projeto de uma plataforma web moderna para academias e centros esport
 - **Dashboard do Aluno:** Visualização de treinos do dia e metas semanais.
 - **Gestão de Séries:** Interface interativa para marcar exercícios concluídos.
 - **Matrícula Online:** Sistema de escolha de planos e pagamentos.
-- **Blog de Nutrição:** Dicas e artigos sobre saúde e suplementação.
 - **Responsividade Total:** Acesso fluido via desktop, tablet ou smartphone.
 
 ## 🛠️ Tecnologias Utilizadas
