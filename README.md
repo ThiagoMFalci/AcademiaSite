@@ -11,10 +11,10 @@ Este é um projeto de uma plataforma web moderna para academias e centros esport
 
 ## 🛠️ Tecnologias Utilizadas
 
-*   **Frontend:** React.js / Next.js com Tailwind CSS (ou sua tecnologia de preferência).
-*   **Backend:** Node.js / .NET Core.
-*   **Banco de Dados:** PostgreSQL / MongoDB.
-*   **Autenticação:** JWT ou Firebase Auth.
+*   **Frontend:** Next.js com Tailwind CSS.
+*   **Backend:** .NET Core.
+*   **Banco de Dados:** PostgreSQL
+*   **Autenticação:** JWT
 
 ## 📦 Como rodar o projeto
 
